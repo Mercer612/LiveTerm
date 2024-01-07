@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Root",
+			"path": "."
+		},
+	],
+	"settings": {
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": "explicit",
+			"source.organizeImports": "explicit",
+			"source.addMissingImports": "explicit"
+		},
+		"eslint.validate": [
+			"typescript"
+		],
+		"GitHooks.hooksDirectory": "d:\\Pets\\visitcard\\LiveTerm\\.git\\hooks",
+	   }
+}
