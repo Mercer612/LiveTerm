@@ -1,11 +1,12 @@
 # [💻 LiveTerm - build terminal styled websites in minutes!](https://liveterm.vercel.app)
 
-## This is a fork of original repo to use LiveTerm as personal visit card!
+## This is a fork of the original repo to use LiveTerm as your personal visit card!
 - Removed demo materials;
 - Sumfetch function refactored;
 - Unicode symbols are easy replaceable;
 - Configuration file (config.json) added to .gitignore. Git stores example.
 - Added some stuff for VSCode & ESLint;
+--- 
 
 Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
 
